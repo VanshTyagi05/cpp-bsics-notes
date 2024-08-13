@@ -16,12 +16,12 @@ void print(int arr[],int index,int n,int sum,vector<int>&ans){
 }
 int main()
 {
-  int arr[]={1,2,3,4};
+  int arr[]={-1,0,1,2,-1,-4};
   vector<int>ans;
   
-  print(arr,0,4,0,ans);
+  print(arr,0,6,0,ans);
   for(int i=0;i<ans.size();i++){
-    cout<<ans[i]<<endl;
+    cout<<ans[i];
   }
   
   
