@@ -10,8 +10,7 @@ int main()
     {
     
         cout<<i<<endl;
-    
-        i++;
+            i++;
     }
     
  }

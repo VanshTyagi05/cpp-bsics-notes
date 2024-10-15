@@ -57,8 +57,8 @@ int main()
   {
     Node *curr = Head;
     Node *prev = NULL;
-    x--;
-    while (x--)
+   
+    while (--x)
     {
       prev = curr;
       curr = curr->next;
