@@ -13,4 +13,9 @@ int main()
             i++;
     }
     
+    for(int i=0;i<n;i++){
+        cout<<i<<endl;
+    }
+    // hann 
+// HOW ARE YOU MAN YOU ARE DOIN THIS FUN ONLY FOR TESTING AND TESTING IS THE BEST WAY TO LEARN NEW FUNCTIONS
  }
